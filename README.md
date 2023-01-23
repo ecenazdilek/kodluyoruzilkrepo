@@ -23,6 +23,7 @@ linux için;
 ## CONTRIBUTING
 pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+----
 ## LICENSE
 
 ecenazdilek/kodluyoruzilkrepo is licensed under the
