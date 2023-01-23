@@ -24,4 +24,4 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ecenazdilek/kodluyoruzilkrepo is licensed under the
 
-MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
